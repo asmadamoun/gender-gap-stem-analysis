@@ -15,12 +15,19 @@ Python, pandas, Matplotlib
 - **Biology**: The share of women went up from about 29% in 1970 to about 60% in the early 2000s.
 - **Engineering**: It started very low (about 1% in 1970) and grew to about 17-18%.
 - **Computer Science**: It rose from about 14% in 1970 to about 37% in the mid-1980s, then fell to about 18% in 2011.
+## Part 2: Morocco vs USA
+I also compared the share of women among STEM graduates in Morocco and in the USA.
+
+- Source: World Bank data (UNESCO Institute for Statistics), downloaded from Our World in Data
+- Link: [Our World in Data](https://ourworldindata.org/grapher/share-graduates-stem-female)
+- Morocco: about 45% from 2015 to 2017
+- USA: between 31% and 34% from 2005 to 2016
+- Limits: Morocco has data for only 8 years, and the data covers all STEM fields together, not only Computer Science
 
 ## Files
 - `notebook3e947bad48.ipynb`: the full analysis (data check, visualisation, findings)
 
 ## Next steps
-- Add data from Morocco to compare with the USA
 - Look for possible reasons for the fall in Computer Science
 
 ## Author
